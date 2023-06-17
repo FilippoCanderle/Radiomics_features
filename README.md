@@ -14,3 +14,6 @@ o Are the radiomic features or any derived scores associated to PD clinical symp
 PART 2 - INDIVIDUAL PREDICTION
 
 o Are the radiomics features capable to distinguish patients from controls?
+
+
+All rights reserved @Sofiia Tatosh, Griselda Kolici, Filippo Canderle
